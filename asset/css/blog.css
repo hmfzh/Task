@@ -54,7 +54,8 @@ input[type="checkbox"] {
   
   .card-project-display{
     display: flex;
-    flex-direction: row;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
     justify-content: center;
     /* align-items: center; */
     gap: 50px;
@@ -148,7 +149,7 @@ input[type="checkbox"] {
 
 .project-list{
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     /* align-items: center; */
     gap: 50px;
