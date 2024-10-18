@@ -30,9 +30,8 @@
 - Duration
 ![image](https://github.com/user-attachments/assets/7d821661-d26b-49e4-8d80-1d707aac77fc)
 
-
-## Project File
-https://github.com/hmfzh/Day-1/tree/8bc7d74991b484c90d275dc967aa6e6d1e5ae9f6/Task_Creating_Card
-
 ## Website
 https://hmfzh-final-task-week1.vercel.app/
+
+## Vidio Record
+https://drive.google.com/file/d/1gAIdeNAJ3g35_V2Renx-x_dLi5DrujlN/view?usp=sharing
