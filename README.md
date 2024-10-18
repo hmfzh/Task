@@ -18,9 +18,9 @@
 - Blog
   ![image](https://github.com/user-attachments/assets/c96c79a0-6d4f-408c-9664-7fedba8bf746)
 - Insert
-- ![image](https://github.com/user-attachments/assets/462da3c1-004d-423a-9d57-7b115a473626)
+ ![image](https://github.com/user-attachments/assets/462da3c1-004d-423a-9d57-7b115a473626)
 - Delete
-- ![image](https://github.com/user-attachments/assets/14e68580-c0ba-4438-a830-5509c40c8efb)
+ ![image](https://github.com/user-attachments/assets/14e68580-c0ba-4438-a830-5509c40c8efb)
 
 
 ## Day 5
