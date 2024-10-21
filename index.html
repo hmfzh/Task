@@ -10,15 +10,32 @@
     <nav>
       <ul class="ul-flex">
         <img src="asset/img/logo.jpg" alt="" class="img-nav" />
-        <li class="hover"><a href="index.html">Home</a></li>
-        <li class="hover"><a href="myproject.html">My Project</a></li>
+        <li class="hover"><a href="index.html" class="nav-link">Home</a></li>
+        <li class="hover">
+          <a href="myproject.html" class="nav-link">My Project</a>
+        </li>
         <li class="nav-button">
-          <button class="button-contact">
+          <button class="button-contact nav-link">
             <a href="contact.html" class="a-contact">Contact Me</a>
+            <button onclick="hamburgerToggle()" class="hamburger-button">
+              <i class="fa-solid fa-bars"></i>
+            </button>
           </button>
         </li>
       </ul>
     </nav>
+
+    <div id="hamburger-container" class="hamburger-container hide">
+      <h1 class="hamburger-container-item hover">
+        <a style="color: white" href="index.html"> Home </a>
+      </h1>
+      <h1 class="hamburger-container-item hover">
+        <a style="color: white" href="myproject.html"> My Project </a>
+      </h1>
+      <h1 class="hamburger-container-item hover">
+        <a style="color: white" href="contact.html"> Contact Me </a>
+      </h1>
+    </div>
 
     <section class="section-me">
       <div class="article-me">
@@ -66,5 +83,6 @@
         </div>
       </div>
     </section>
+    <script src="asset/js/app.js"></script>
   </body>
 </html>

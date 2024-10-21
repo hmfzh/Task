@@ -155,3 +155,54 @@ input[type="checkbox"] {
     gap: 50px;
     margin:50px;
 }
+
+@media only screen and (max-width: 600px) {
+    .form-style {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+        width: 100%;
+        padding: 20px;
+      }
+
+      .project-date{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+      }
+      .start-date{
+        width: 100%;
+      }
+      .end-date{
+        width: 100%;
+      }
+      .technologies{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }  
+
+      .checkbox-group{
+        display: flex;
+        flex-direction: column;
+   
+        padding-left: 40px;
+      }
+      .input-checkbox{
+        width: 100%;
+      }
+      .button-submit{
+        width: 100%;
+      }
+      .card-project {
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        padding: 16px;
+        text-align: center;
+        border: 1px solid black;
+        /* margin: 0 auto */
+    }
+}

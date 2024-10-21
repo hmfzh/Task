@@ -8,6 +8,7 @@ function addBlog(event) {
   const endDate = new Date(document.getElementById('end-date').value);
   const inputMessage = document.getElementById("message").value;
   const inputProjectImage = document.getElementById("input-project-image").files;
+  
   const checkboxGroup = document.querySelector('.checkbox-group');
   const checkedCheckboxes = checkboxGroup.querySelectorAll('input[type="checkbox"]:checked');
   const selectedTechnologies = [];

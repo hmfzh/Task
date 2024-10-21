@@ -22,3 +22,8 @@ const sendToMail = document.getElementById('form-style').addEventListener('submi
     
     a.click();
 });
+
+function hamburgerToggle() {
+    const hamburgerContainer = document.getElementById("hamburger-container")
+    hamburgerContainer.classList.toggle("hide")
+}
